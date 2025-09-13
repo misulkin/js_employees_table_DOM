@@ -1,3 +1,5 @@
 'use strict';
 
-// write code here
+// write code her
+
+const list = document.getElementsByTagName('table');
